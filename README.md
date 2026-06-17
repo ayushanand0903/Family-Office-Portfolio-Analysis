@@ -21,7 +21,7 @@ To identify high-quality investment opportunities through fundamental and techni
 
 ## Key Outcome
 
-📈 Constructed and monitored a diversified ₹10 lakh virtual equity portfolio that generated a return of 2.6% during a two-week evaluation period.
+📈 Constructed and monitored a diversified ₹10 lakh virtual equity portfolio that generated a return of **+2.6%** during a two-week evaluation period where Nifty 50 and Sensex grew by **+0.26%** and **-0.07%** resp.
 
 ---
 
