@@ -11,7 +11,7 @@
 
 After constructing a diversified portfolio of fundamentally strong companies, the next phase involved monitoring stock performance and evaluating the effectiveness of the investment strategy.
 
-A simulated investment environment was created using a virtual capital allocation of ₹10,00,000. The portfolio was tracked over a two-week observation period to assess stock performance, portfolio returns, and overall investment outcomes.
+A simulated investment environment was created using a virtual capital allocation of ₹10,00,000. The portfolio was tracked over 6 months observation period to assess stock performance, portfolio returns, and overall investment outcomes.
 
 ---
 
@@ -79,8 +79,8 @@ Key parameters tracked included:
 | Metric                  | Result          |
 | ----------------------- | --------------- |
 | Initial Portfolio Value | ₹10,00,000      |
-| Observation Period      | 6 months        |
-| Portfolio Return        | +15.61%         |
+| Observation Period      |  6 months       |
+| Portfolio Return        |  +15.61%        |
 | Portfolio Status        | Positive Growth |
 
 ### Outcome
@@ -93,7 +93,7 @@ The newly constructed portfolio appreciated by approximately **15.61% during the
 
 ### Short Term Loss
 
-In the short vperiod of initial 1 month, we observed taht Nifty 50 and Sensex outperform our portfolio but when compared after 3 months and 6 months our portfolio outforms them by **5.04% and 6.09%** resp.
+In the short vperiod of initial 1 month, we observed taht Nifty 50 and Sensex outperform our portfolio but when compared after 3 months and 6 months our portfolio outperforms them by **5.04% and 6.09%** resp.
 
 ### Diversification Benefits
 
