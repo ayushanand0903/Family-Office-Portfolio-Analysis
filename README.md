@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project involved evaluating an existing Family Office equity portfolio, identifying underperforming holdings, constructing a diversified investment portfolio, and tracking performance over a two-week period to validate investment recommendations.
+This project involved evaluating an existing Family Office equity portfolio, identifying underperforming holdings, constructing a diversified investment portfolio, and tracking performance over varioius periods to validate investment recommendations.
 
 ### Project Objective
 
@@ -15,13 +15,14 @@ To identify high-quality investment opportunities through fundamental and techni
 - Identified portfolio strengths, weaknesses, and potential risk exposures.
 - Constructed a diversified portfolio comprising 10 stocks across multiple sectors.
 - Applied asset allocation principles to balance risk and return.
-- Validated recommendations through a two-week performance monitoring exercise.
+- Validated recommendations through a periodic performance monitoring exercise.
 
 ---
 
 ## Key Outcome
 
-📈 Constructed and monitored a diversified ₹10 lakh virtual equity portfolio that generated a return of **+2.6%** during a two-week evaluation period where Nifty 50 and Sensex grew by **+0.26%** and **-0.07%** resp.
+📈 Constructed and monitored a diversified ₹10 lakh virtual equity portfolio that generated a return of **+15.61%** during a 6 month evaluation period where Nifty 50 and Sensex grew by **+10.56%** and **+9.51%** resp.
+
 
 ---
 
@@ -55,7 +56,7 @@ Built a diversified ₹10 lakh virtual portfolio using:
 
 ### 3. Performance Tracking
 
-Monitored portfolio performance over a two-week period and evaluated returns.
+Monitored portfolio performance over 6 month periodically and evaluated returns.
 
 📂 [View Component 3](Component-3_Performance_Tracking/README.md)
 
