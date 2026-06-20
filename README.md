@@ -28,7 +28,7 @@ To identify high-quality investment opportunities through fundamental and techni
 
 ## Project Workflow
 
-![Project Workflow](/Images/Work%20Flow.png)
+![Project Workflow](/Images/WorkFlow%20Upd.png)
 
 ### 1. Portfolio Evaluation
 
@@ -79,6 +79,10 @@ Monitored portfolio performance over 6 month periodically and evaluated returns.
 ## Portfolio Performance
 
 ![Portfolio Allocation](/Images/Screenshot%202026-06-13%20023157.png)
+
+
+![Portfolio](/Images/Screenshot%202026-06-20%20211935.png)
+
 
 ---
 
