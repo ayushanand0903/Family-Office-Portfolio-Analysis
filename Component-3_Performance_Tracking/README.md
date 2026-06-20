@@ -1,5 +1,6 @@
 # Family Office Portfolio Analysis – Component 3: Portfolio Performance Tracking & Trade Evaluation
 
+![Performance Track](/Images/Screenshot%202026-06-20%20211935.png)
 ![Performace Track](/Images/Screenshot%202026-06-13%20023157.png)
 
 [New Portfolio Evaluation](/Component-3_Performance_Tracking/Comp3NewPortfolioEval.xlsx)
@@ -57,7 +58,7 @@ A virtual investment capital of ₹10,00,000 was distributed across the selected
 
 ## Performance Monitoring
 
-The portfolio was monitored continuously over a two-week period.
+The portfolio was monitored continuously over 6 months.
 
 Key parameters tracked included:
 
@@ -76,17 +77,21 @@ Key parameters tracked included:
 | Metric                  | Result          |
 | ----------------------- | --------------- |
 | Initial Portfolio Value | ₹10,00,000      |
-| Observation Period      | 2 Weeks         |
-| Portfolio Return        | +2.6%           |
+| Observation Period      | 6 months        |
+| Portfolio Return        | +15.61%         |
 | Portfolio Status        | Positive Growth |
 
 ### Outcome
 
-The newly constructed portfolio appreciated by approximately **2.6% during the observation period**, indicating that the stock selection and allocation strategy generated positive short-term results.
+The newly constructed portfolio appreciated by approximately **15.61% during the observation period**, indicating that the stock selection and allocation strategy generated positive short to medium-term results.
 
 ---
 
 ## Key Observations
+
+### Short Term Loss
+
+In the short vperiod of initial 1 month, we observed taht Nifty 50 and Sensex outperform our portfolio but when compared after 3 months and 6 months our portfolio outforms them by **5.04% and 6.09%** resp.
 
 ### Diversification Benefits
 
@@ -114,7 +119,7 @@ The project demonstrated the complete investment management cycle:
 4. Portfolio construction and capital allocation
 5. Performance tracking and evaluation
 
-The observed portfolio growth of approximately 2.6% validated the effectiveness of the investment framework and highlighted the importance of combining fundamental analysis, technical analysis, diversification, and disciplined portfolio management.
+The observed portfolio growth of approximately 15.61% validated the effectiveness of the investment framework and highlighted the importance of combining fundamental analysis, technical analysis, diversification, and disciplined portfolio management.
 
 ---
 
