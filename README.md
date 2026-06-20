@@ -67,7 +67,6 @@ Monitored portfolio performance over 6 month periodically and evaluated returns.
 ![Portfolio Allocation](/Images/Screenshot%202026-06-13%20022722.png)
 
 
-
 ---
 
 ## Fundamental Analysis Snapshot
@@ -82,6 +81,7 @@ Monitored portfolio performance over 6 month periodically and evaluated returns.
 
 
 ![Portfolio](/Images/Screenshot%202026-06-20%20211935.png)
+
 
 
 ---
